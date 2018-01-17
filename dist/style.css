@@ -1,8 +1,4 @@
-a {
-  background-size: 100px auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  border-radius: 4px; }
+.icon.cryptoCoin {
+  display: inline-block; }
 
 /*# sourceMappingURL=style.css.map*/
