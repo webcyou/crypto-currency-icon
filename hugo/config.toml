@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://webcyou.github.io/crypto-currency-icon/"
+languageCode = "ja"
+title = "Crypto Currency Icon Show Page"
 theme = "hugrid"
 
 contentdir = "content"
