@@ -6,8 +6,9 @@
   "style": "dist/crypto-currency-icon.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "concurrent \"npm run boot:hugo\" \"npm run webpack:w\"",
+    "start": "concurrent \"npm run boot:hugo\" \"npm run webpack:w\" \"npm run sass:docs\"",
     "boot:hugo": "bash docs/boot.sh",
+    "sass:docs": "node-sass --include-path scss scss/docs/style.scss docs/static/style.css -w",
     "webpack": "webpack",
     "webpack:w": "webpack --progress --colors --watch"
   },
