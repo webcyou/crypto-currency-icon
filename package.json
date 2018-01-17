@@ -7,9 +7,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "concurrent \"npm run boot:hugo\" \"npm run webpack:w\" \"npm run sass:docs\"",
+    "build": "concurrent \"npm run build:sass\" \"npm run build:hugo\" \"npm run webpack\"",
     "boot:hugo": "bash hugo/boot.sh",
     "build:hugo": "bash hugo/build.sh",
-    "sass:docs": "node-sass --include-path scss scss/docs/style.scss docs/static/css/style.css -w",
+    "sass:docs": "node-sass --include-path scss scss/docs/style.scss hugo/static/css/style.css -w",
+    "build:sass": "node-sass scss/docs/style.scss hugo/static/css/style.css --output-style compressed",
     "webpack": "webpack",
     "webpack:w": "webpack --progress --colors --watch"
   },
@@ -27,10 +29,13 @@
   "author": "daisuke.takayama",
   "license": "MIT",
   "devDependencies": {
+    "autoprefixer": "^7.2.5",
+    "autoprefixer-loader": "^3.2.0",
     "concurrently": "^3.5.1",
     "css-loader": "^0.28.8",
     "extract-text-webpack-plugin": "^3.0.2",
     "node-sass": "^4.7.2",
+    "postcss-loader": "^2.0.10",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.19.1",
     "webpack": "^3.10.0"
