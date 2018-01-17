@@ -6,7 +6,8 @@
   "style": "dist/crypto-currency-icon.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm run webpack:w",
+    "start": "concurrent \"npm run boot:hugo\" \"npm run webpack:w\"",
+    "boot:hugo": "bash docs/boot.sh",
     "webpack": "webpack",
     "webpack:w": "webpack --progress --colors --watch"
   },
@@ -14,6 +15,13 @@
     "type": "git",
     "url": "git@panicdragon:webcyou/crypto-currency-icon.git"
   },
+  "keywords": [
+    "Crypto Currency",
+    "icon",
+    "APBCSS",
+    "CSS",
+    "UI Parts"
+  ],
   "author": "daisuke.takayama",
   "license": "MIT",
   "devDependencies": {
