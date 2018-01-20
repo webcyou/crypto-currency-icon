@@ -9,18 +9,18 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=10" />
-    <title>Crypto Currency Icon Show Page</title>
-    <meta name="generator" content="Hugo 0.33" />
+    <title>Adding content - Crypto Currency Icon Show Page</title>
+    <meta name="generator" content="Hugo 0.19" />
 
     
     <meta name="description" content="CryptoCurrency Icon CSS Style">
     
-    <link rel="canonical" href="https://webcyou.github.io/crypto-currency-icon/">
+    <link rel="canonical" href="https://webcyou.github.io/crypto-currency-icon/adding-content/">
     
     <meta name="author" content="daisuke.takayama">
     
 
-    <meta property="og:url" content="https://webcyou.github.io/crypto-currency-icon/">
+    <meta property="og:url" content="https://webcyou.github.io/crypto-currency-icon/adding-content/">
     <meta property="og:title" content="Crypto Currency Icon Show Page">
     <meta property="og:image" content="https://webcyou.github.io/crypto-currency-icon/images/logo.png">
     <meta name="apple-mobile-web-app-title" content="Crypto Currency Icon Show Page">
@@ -71,9 +71,6 @@
     <script src="https://webcyou.github.io/crypto-currency-icon/javascripts/modernizr.js"></script>
 
     
-    <link href="https://webcyou.github.io/crypto-currency-icon/index.xml" rel="alternate" type="application/rss+xml" title="Crypto Currency Icon Show Page" />
-    <link href="https://webcyou.github.io/crypto-currency-icon/index.xml" rel="feed" type="application/rss+xml" title="Crypto Currency Icon Show Page" />
-    
 
   </head>
   <body class="palette-primary-red palette-accent-teal">
@@ -102,7 +99,7 @@
     </div>
     <div class="stretch">
       <div class="title">
-        Crypto Currency Icon Show Page
+        Adding content
       </div>
     </div>
 
@@ -143,7 +140,7 @@
         </div>
       
       <div class="name">
-        <strong>Crypto Currency Icon Show Page <span class="version">0.1.0</span></strong>
+        <strong>Crypto Currency Icon Show Page <span class="version">1.0.0</span></strong>
         
           <br>
           digitalcraftsman/hugo-material-docs
@@ -203,11 +200,14 @@
 
 
 
-<a  title="Adding content" href="/crypto-currency-icon/adding-content/">
+<a class="current" title="Adding content" href="/crypto-currency-icon/adding-content/">
 	
 	Adding content
 </a>
 
+
+<ul id="scrollspy">
+</ul>
 
 
   
@@ -257,14 +257,11 @@
 
 
 
-<a class="current" title="Material" href="/crypto-currency-icon/crypto-currency-icon/">
+<a  title="Material" href="/crypto-currency-icon/crypto-currency-icon/">
 	
 	Material
 </a>
 
-
-<ul id="scrollspy">
-</ul>
 
 
   
@@ -307,40 +304,64 @@
 
 	<article class="article">
 		<div class="wrapper">
+			<h1>Adding content </h1>
+
 			
-				<h1>Material for Hugo </h1>
 
-				
+<h2 id="hello-world">Hello world</h2>
 
-<h2 id="beautiful-documentation">Beautiful documentation</h2>
+<p>Let&rsquo;s create our first content file for your documentation. Open a terminal and add the following command for each new file you want to add. Replace <code>&lt;section-name&gt;</code> with a general term that describes your document in detail.</p>
 
-<p>Material is a theme for <a href="https://gohugo.io">Hugo</a>, a fast and flexible static site generator. It is built using Google&rsquo;s <a href="https://www.google.com/design/spec/material-design/introduction.html">material design</a>
-guidelines, fully responsive, optimized for touch and pointer devices as well
-as all sorts of screen sizes.</p>
-
-<p><img src="/images/screen.png" alt="Material Screenshot" /></p>
-
-<p>Material is very lightweight – it is built from scratch using Javascript and
-CSS that weighs less than 30kb (minified, gzipped and excluding Google Fonts
-and Analytics). Yet, it is highly customizable and degrades gracefully in older
-browsers.</p>
-
-<h2 id="quick-start">Quick start</h2>
-
-<p>Install with <code>git</code>:</p>
-
-<pre><code class="language-sh">git clone git@github.com:digitalcraftsman/hugo-material-docs.git themes/hugo-material-docs
+<pre><code class="language-sh">hugo new &lt;section-name&gt;/filename.md
 </code></pre>
 
-<h2 id="features">Features</h2>
+<p>Visitors of your website will find the final document under <code>www.example.com/&lt;section-name&gt;/filename/</code>.</p>
 
-<h2 id="acknowledgements">Acknowledgements</h2>
+<p>Since it&rsquo;s possible to have multiple content files in the same section I recommend to create at least one <code>index.md</code> file per section. This ensures that users will find an index page under <code>www.example.com/&lt;section-name&gt;</code>.</p>
 
-<p>Last but not least a big thank you to <a href="https://github.com/squidfunk">Martin Donath</a>. He created the original <a href="https://github.com/squidfunk/mkdocs-material">Material theme</a> for Hugo&rsquo;s companion <a href="http://www.mkdocs.org/">MkDocs</a>. This port wouldn&rsquo;t be possible without him.</p>
+<h2 id="homepage">Homepage</h2>
 
-<p>Furthermore, thanks to <a href="https://gihub.com/spf13">Steve Francia</a> for creating Hugo and the <a href="https://github.com/spf13/hugo/graphs/contributors">awesome community</a> around the project.</p>
+<p>To add content to the homepage you need to add a small indicator to the frontmatter of the content file:</p>
 
-			
+<pre><code class="language-toml">type: index
+</code></pre>
+
+<p>Otherwise the theme will not be able to find the corresponding content file.</p>
+
+<h2 id="table-of-contents">Table of contents</h2>
+
+<p>You maybe noticed that the menu on the left contains a small table of contents of the current page. All <code>&lt;h2&gt;</code> tags (<code>## Headline</code> in Markdown) will be added automatically.</p>
+
+<h2 id="admonitions">Admonitions</h2>
+
+<p>Admonition is a handy feature that adds block-styled side content to your documentation, for example hints, notes or warnings. It can be enabled by using the corresponding <a href="http://gohugo.io/extras/shortcodes/">shortcodes</a> inside your content:</p>
+
+<pre><code class="language-go">{{&lt; note title=&quot;Note&quot; &gt;}}
+Nothing to see here, move along.
+{{&lt; /note &gt;}}
+</code></pre>
+
+<p>This will print the following block:</p>
+
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Nothing to see here, move along.</p>
+</div>
+
+<p>The shortcode adds a neutral color for the note class and a red color for the warning class. You can also add a custom title:</p>
+
+<pre><code class="language-go">{{&lt; warning title=&quot;Don't try this at home&quot; &gt;}}
+Nothing to see here, move along.
+{{&lt; /warning &gt;}}
+</code></pre>
+
+<p>This will print the following block:</p>
+
+<div class="admonition warning">
+<p class="admonition-title">Don&#39;t try this at home</p>
+<p>Nothing to see here, move along.</p>
+</div>
+
 
 			<aside class="copyright" role="note">
 				
@@ -355,23 +376,37 @@ browsers.</p>
 			<footer class="footer">
 				
 
-
-
 <nav class="pagination" aria-label="Footer">
   <div class="previous">
+  
+      <a href="https://webcyou.github.io/crypto-currency-icon/getting-started/" title="Getting started">
+        <span class="direction">
+          Previous
+        </span>
+        <div class="page">
+          <div class="button button-previous" role="button" aria-label="Previous">
+            <i class="icon icon-back"></i>
+          </div>
+          <div class="stretch">
+            <div class="title">
+              Getting started
+            </div>
+          </div>
+        </div>
+      </a>
+  
   </div>
 
-  
-  
   <div class="next">
-      <a href="https://webcyou.github.io/crypto-currency-icon/tags/" title="Tags">
+  
+      <a href="https://webcyou.github.io/crypto-currency-icon/roadmap/" title="Roadmap">
         <span class="direction">
           Next
         </span>
         <div class="page">
           <div class="stretch">
             <div class="title">
-              Tags
+              Roadmap
             </div>
           </div>
           <div class="button button-next" role="button" aria-label="Next">
@@ -379,8 +414,11 @@ browsers.</p>
           </div>
         </div>
       </a>
+  
   </div>
 </nav>
+
+
 
 
 

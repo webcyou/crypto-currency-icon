@@ -1,7 +1,7 @@
 baseURL = "https://webcyou.github.io/crypto-currency-icon/"
 languageCode = "ja"
-title = "Crypto Currency Icon Show Page"
-theme = "hugrid"
+title = "- Crypto Currency Icon - Show Page"
+theme = "hugo-material-docs"
 
 contentdir = "content"
 datadir = "data"
@@ -9,4 +9,71 @@ layoutdir = "layouts"
 publishdir = "public"
 
 [params]
-  custom_css = ["css/crypto-currency-icon.css"]
+	# General information
+	author = "webcyou"
+	description = "CryptoCurrency Icon CSS Style"
+	copyright = "Released under the MIT license"
+
+	# Repository
+	provider = "GitHub"
+	repo_url = "https://github.com/webcyou/crypto-currency-icon"
+
+	version = "0.1.0"
+	logo = "images/logo.png"
+	favicon = ""
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = ["css/crypto-currency-icon.css"]
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "red"
+    	accent  = "teal"
+
+    [params.font]
+    	text = "Ubuntu"
+    	code = "Ubuntu Mono"
+
+
+[social]
+	twitter = ""
+	github  = "webcyou"
+	email   = "info@webcyou.com"
+
+
+[[menu.main]]
+	name   = "Material"
+	url    = "/"
+	weight = 0
+
+[[menu.main]]
+	name   = "Getting started"
+	url    = "getting-started/"
+	weight = 10
+
+[[menu.main]]
+	name   = "Adding content"
+	url    = "adding-content/"
+	weight = 20
+
+[[menu.main]]
+	name   = "Roadmap"
+	url    = "roadmap/"
+	weight = 30
+
+[[menu.main]]
+	name   = "License"
+	url    = "license/"
+	weight = 40
+
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true

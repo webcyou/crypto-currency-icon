@@ -2,35 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crypto Currency Icon Show Page</title>
-    <link>https://webcyou.github.io/crypto-currency-icon/index.xml</link>
+    <link>https://webcyou.github.io/crypto-currency-icon/</link>
     <description>Recent content on Crypto Currency Icon Show Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://webcyou.github.io/crypto-currency-icon/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Tue, 08 Mar 2016 21:07:13 +0100</lastBuildDate>
+    
+	<atom:link href="https://webcyou.github.io/crypto-currency-icon/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>All Coin</title>
-      <link>https://webcyou.github.io/crypto-currency-icon/all_coin/</link>
-      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Material for Hugo</title>
+      <link>https://webcyou.github.io/crypto-currency-icon/</link>
+      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
       
-      <guid>https://webcyou.github.io/crypto-currency-icon/all_coin/</guid>
-      <description>
-
-&lt;h1 id=&#34;all-coin&#34;&gt;All Coin&lt;/h1&gt;
-
-&lt;h2 id=&#34;bitcoin&#34;&gt;Bitcoin&lt;/h2&gt;
-
-&lt;p class=&#34;icon cryptoCoin mini btc&#34;&gt;&lt;/p&gt;
-
-&lt;p class=&#34;icon cryptoCoin small btc&#34;&gt;&lt;/p&gt;
-
-&lt;p class=&#34;icon cryptoCoin btc&#34;&gt;&lt;/p&gt;
-
-&lt;p class=&#34;icon cryptoCoin large btc&#34;&gt;&lt;/p&gt;
-
-&lt;p class=&#34;icon cryptoCoin big btc&#34;&gt;&lt;/p&gt;
-</description>
+      <guid>https://webcyou.github.io/crypto-currency-icon/</guid>
+      <description>Beautiful documentation Material is a theme for Hugo, a fast and flexible static site generator. It is built using Google&amp;rsquo;s material design guidelines, fully responsive, optimized for touch and pointer devices as well as all sorts of screen sizes.
+Material is very lightweight – it is built from scratch using Javascript and CSS that weighs less than 30kb (minified, gzipped and excluding Google Fonts and Analytics). Yet, it is highly customizable and degrades gracefully in older browsers.</description>
     </item>
     
   </channel>

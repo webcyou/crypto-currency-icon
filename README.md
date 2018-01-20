@@ -34,10 +34,31 @@ CryptoCurrency Icon CSS Style documentation, included in this repo in the root d
 npm install
 ```
 
+If necessary, install Hugo and other Go.
+
 ```$xslt
 brew install hugo
 ```
 
+
 ```$xslt
 npm run start
 ```
+
+Open `http://localhost:1313` in your browser.
+
+
+## Creators
+
+**Daisuke Takayama**
+* [@webcyou](https://twitter.com/webcyou)
+* [@panicdragon](https://twitter.com/panicdragon)
+* <https://github.com/webcyou>
+* <https://github.com/panicdragon>
+* <http://www.webcyou.com/>
+
+
+## Copyright and license
+
+MIT
+
