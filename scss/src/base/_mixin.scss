@@ -1,0 +1,26 @@
+/*
+ * Mixin Style
+*/
+@mixin iconSize {
+  background-size: 30px auto;
+
+  &.mini {
+    background-size: 14px auto;
+  }
+
+  &.small {
+    background-size: 20px auto;
+  }
+
+  &.medium {
+    background-size: 30px auto;
+  }
+
+  &.large {
+    background-size: 50px auto;
+  }
+
+  &.big {
+    background-size: 100px auto;
+  }
+}

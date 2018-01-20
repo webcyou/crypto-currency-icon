@@ -1,0 +1,30 @@
+.icon.cryptoCoin {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+
+  &.mini {
+    width: 14px;
+    height: 14px;
+  }
+
+  &.small {
+    width: 20px;
+    height: 20px;
+  }
+
+  &.medium {
+    width: 30px;
+    height: 30px;
+  }
+
+  &.large {
+    width: 50px;
+    height: 50px;
+  }
+
+  &.big {
+    width: 100px;
+    height: 100px;
+  }
+}

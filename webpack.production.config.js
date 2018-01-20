@@ -10,7 +10,7 @@ module.exports = [{
         style: './crypto-currency-icon.scss'
     },
     output: {
-        path: path.join(__dirname, 'hugo/static/css'),
+        path: path.join(__dirname, 'dist'),
         filename: 'crypto-currency-icon.css'
     },
     module: {

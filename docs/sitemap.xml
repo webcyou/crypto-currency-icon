@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://webcyou.github.io/crypto-currency-icon/categories/</loc>
-    <priority>0</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
     <loc>https://webcyou.github.io/crypto-currency-icon/</loc>
-    <priority>0</priority>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://webcyou.github.io/crypto-currency-icon/tags/</loc>
-    <priority>0</priority>
+    <loc>https://webcyou.github.io/crypto-currency-icon/all_coin/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

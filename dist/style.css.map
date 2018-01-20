@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./crypto-currency-icon.scss"],"names":[],"mappings":"AACA;EAEI,sBAAqB,EAEtB","file":"style.css","sourcesContent":["\n.icon {\n  &.cryptoCoin {\n    display: inline-block;\n\n  }\n}\n\n\n// WEBPACK FOOTER //\n// ./crypto-currency-icon.scss"],"sourceRoot":""}

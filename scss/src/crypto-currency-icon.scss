@@ -1,7 +1,17 @@
+@import "common_inc";
+@import "coins";
 
-.icon {
-  &.cryptoCoin {
-    display: inline-block;
+.icon.cryptoCoin {
+  // BitCoin
+  &.btc { @include bitcoin; }
 
-  }
+  // Ripple
+  &.xrp { @include ripple; }
+
+  // Ethereum
+  &.eth { @include ethereum; }
+
+  // BitCoinCash
+  &.bch { @include bitcoinCash; }
 }
+

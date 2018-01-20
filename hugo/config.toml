@@ -7,3 +7,6 @@ contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
 publishdir = "public"
+
+[params]
+  custom_css = ["css/crypto-currency-icon.css"]
