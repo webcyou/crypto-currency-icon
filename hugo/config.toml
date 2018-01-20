@@ -1,6 +1,6 @@
 baseURL = "https://webcyou.github.io/crypto-currency-icon/"
 languageCode = "ja"
-title = "- Crypto Currency Icon - Show Page"
+title = "Crypto Currency Icon"
 theme = "hugo-material-docs"
 
 contentdir = "content"
@@ -71,6 +71,10 @@ publishdir = "public"
 	url    = "license/"
 	weight = 40
 
+[[menu.main]]
+	name   = "test"
+	url    = "test/"
+	weight = 40
 
 [blackfriday]
 	smartypants	= true
