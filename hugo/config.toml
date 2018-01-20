@@ -32,7 +32,7 @@ publishdir = "public"
 	highlight_css  = ""
 
 	[params.palette]
-    	primary = "red"
+    	primary = "blue"
     	accent  = "teal"
 
     [params.font]
