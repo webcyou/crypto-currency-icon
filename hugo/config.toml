@@ -7,7 +7,6 @@ canonifyurls = true
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = ""
 
-
 [params]
 	# General information
 	author = "webcyou"
@@ -60,11 +59,6 @@ googleAnalytics = ""
 	name   = "Icons"
 	url    = "icons/"
 	weight = 20
-
-#[[menu.main]]
-#	name   = "Roadmap"
-#	url    = "roadmap/"
-#	weight = 30
 
 [[menu.main]]
 	name   = "License"

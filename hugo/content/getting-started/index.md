@@ -1,5 +1,5 @@
 ---
-date: 2018-01-20T21:07:13+01:00
+date: 2016-03-09T20:08:11+01:00
 title: Getting started
 weight: 10
 ---
@@ -46,6 +46,7 @@ add Size Variation.
 ```$xslt
 <p class="icon cryptoCoin xrp small"></p>
 ```
+
 
 ![Ripple](/images/ripple_20.png)
 
