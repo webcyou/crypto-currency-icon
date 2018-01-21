@@ -6,5 +6,3 @@ weight: 20
 
 ### Crypto Currency All Icon
 
-
-
