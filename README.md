@@ -59,13 +59,13 @@ add Size Variation.
 
 | size (px)     | css className |  images  |
 |:-------------:|:-------------:|:--------:|
-| 14px × 14px   | mini          | |
-| 20px × 20px   | small         | |
-| 30px × 30px   | medium        | |
-| 50px × 50px   | large         | |
-| 100px × 100px | big           | |
+| 14px × 14px   | mini          | ![Bitcoin](https://webcyou.github.io/crypto-currency-icon/images/bitcoin_14.png) |
+| 20px × 20px   | small         | ![Bitcoin](https://webcyou.github.io/crypto-currency-icon/images/bitcoin_20.png) |
+| 30px × 30px   | medium        | ![Bitcoin](https://webcyou.github.io/crypto-currency-icon/images/bitcoin_30.png) |
+| 50px × 50px   | large         | ![Bitcoin](https://webcyou.github.io/crypto-currency-icon/images/bitcoin_50.png) |
+| 100px × 100px | big           | ![Bitcoin](https://webcyou.github.io/crypto-currency-icon/images/bitcoin_100.png) |
 
-
+Retina Display Image size.
 
 **Clone the repo:**
 

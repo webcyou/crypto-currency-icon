@@ -13,5 +13,8 @@
 
   // BitCoinCash
   &.bch { @include bitcoinCash; }
+
+  // Cardano
+  &.ada { @include cardano; }
 }
 
