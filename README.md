@@ -3,6 +3,8 @@
 ### [APB CSS](http://apbcss.com/) (Atomic Parts Base CSS) Architecture Base CryptoCurrency Icon CSS Style
 
 
+![Crypto Currency Icon](https://webcyou.github.io/crypto-currency-icon/images/design_ss.png)
+
 
 ## Table of contents
 
@@ -20,7 +22,7 @@ included html
 ```
 
 **Install with [npm](https://www.npmjs.com):**
-```
+```$xslt
 $ npm install crypto-currency-icon
 ```
 
