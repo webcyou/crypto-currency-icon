@@ -4,6 +4,7 @@ title: License
 weight: 40
 ---
 
+
 The MIT License (MIT)
 
 Copyright (c) 2018 Daisuke Takayama

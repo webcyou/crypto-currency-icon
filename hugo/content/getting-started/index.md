@@ -49,7 +49,6 @@ add Size Variation.
 
 ![Ripple](/images/ripple_20.png)
 
-
 ## Icon Size
 
 | size (px)     | css className |  images  |
