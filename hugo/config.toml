@@ -2,11 +2,12 @@ baseURL = "https://webcyou.github.io/crypto-currency-icon/"
 languageCode = "ja"
 title = "Crypto Currency Icon"
 theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
 
-contentdir = "content"
-datadir = "data"
-layoutdir = "layouts"
-publishdir = "public"
+
 
 [params]
 	# General information

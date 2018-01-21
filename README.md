@@ -18,6 +18,15 @@ included html
 git clone git@github.com:webcyou/crypto-currency-icon.git
 ```
 
+**HTML**
+```
+<p class="icon cryptoCoin btc"></p>
+```
+
+**Icon Size CSS Class**
+
+|:----:|:-----:|:------:|:-----:|:---:|
+| mini | small | medium | large | big |
 
 
 ## Documentation

@@ -1,5 +1,5 @@
 ---
-date: 2016-03-08T21:07:13+01:00
+date: 2018-01-20T21:07:13+01:00
 title: Crypto Currency Icon
 type: index
 weight: 0
