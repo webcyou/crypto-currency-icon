@@ -25,8 +25,10 @@ git clone git@github.com:webcyou/crypto-currency-icon.git
 
 **Icon Size CSS Class**
 
+|      |       |        |       |     |
 |:----:|:-----:|:------:|:-----:|:---:|
 | mini | small | medium | large | big |
+
 
 
 ## Documentation
