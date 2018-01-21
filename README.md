@@ -14,12 +14,14 @@ included html
 ```
 
 **Clone the repo:**
-```
-git clone git@github.com:webcyou/crypto-currency-icon.git
+
+```$xslt
+$ git clone git@github.com:webcyou/crypto-currency-icon.git
 ```
 
 **HTML**
-```
+
+```$xslt
 <p class="icon cryptoCoin btc"></p>
 ```
 
