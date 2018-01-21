@@ -5,26 +5,113 @@ type: index
 weight: 0
 ---
 
-## Beautiful documentation
-
-Material is a theme for [Hugo](https://gohugo.io), a fast and flexible static site generator. It is built using Google's [material design](https://www.google.com/design/spec/material-design/introduction.html)
-guidelines, fully responsive, optimized for touch and pointer devices as well
-as all sorts of screen sizes.
-
-![Material Screenshot](/images/screen.png)
-
-Material is very lightweight – it is built from scratch using Javascript and
-CSS that weighs less than 30kb (minified, gzipped and excluding Google Fonts
-and Analytics). Yet, it is highly customizable and degrades gracefully in older
-browsers.
+## Crypto Currency Icon CSS 
 
 ## Quick start
 
-Install with `git`:
-
-```sh
-git clone git@github.com:digitalcraftsman/hugo-material-docs.git themes/hugo-material-docs
+included html
+```$xslt
+<link rel="stylesheet" href="css/crypto-currency-icon.css">
 ```
+
+**Install with [npm](https://www.npmjs.com):**
+```
+$ npm install crypto-currency-icon
+```
+
+
+**HTML**
+
+Bitcoin
+
+```$xslt
+<p class="icon cryptoCoin btc"></p>
+```
+
+![bitCoin](/images/bitcoin_30.png)
+
+
+Ripple
+```$xslt
+<p class="icon cryptoCoin xrp"></p>
+```
+
+![Ripple](/images/ripple_30.png)
+
+
+add Size Variation.
+```$xslt
+<p class="icon cryptoCoin xrp small"></p>
+```
+
+![Ripple](/images/ripple_20.png)
+
+
+
+**Icon Size CSS Class**
+
+|      |       |        |       |      |
+|:----:|:-----:|:------:|:-----:|:----:|
+| big  | large | medium | small | mini |
+| <p class="icon cryptoCoin btc big"></p>  | <p class="icon cryptoCoin btc large"></p> | <p class="icon cryptoCoin btc"></p> | <p class="icon cryptoCoin btc small"></p> | <p class="icon cryptoCoin btc mini"></p> |
+
+
+**Clone the repo:**
+
+```$xslt
+$ git clone git@github.com:webcyou/crypto-currency-icon.git
+```
+
+
+## Documentation
+
+CryptoCurrency Icon CSS Style documentation, included in this repo in the root directory, is built with Hugo.
+
+
+[CryptoCurrency Icon CSS](https://webcyou.github.io/crypto-currency-icon/)
+
+
+## Start Develop
+
+```$xslt
+npm install
+```
+
+If necessary, install Hugo and other Go.
+
+```$xslt
+brew install hugo
+```
+
+
+```$xslt
+npm run start
+```
+
+Open `http://localhost:1313` in your browser.
+
+
+## Creators
+
+**Daisuke Takayama**
+
+[@webcyou](https://twitter.com/webcyou)
+
+[@panicdragon](https://twitter.com/panicdragon)
+
+<https://github.com/webcyou>
+
+<https://github.com/panicdragon>
+
+<http://www.webcyou.com/>
+
+
+## Copyright and license
+
+MIT
+
+
+
 
 ## Features
 

@@ -1,6 +1,8 @@
 # crypto-currency-icon 
 
-## APB CSS (Atomic Parts Base CSS) Base CryptoCurrency Icon CSS Style
+### APB CSS (Atomic Parts Base CSS) Architecture Base CryptoCurrency Icon CSS Style
+
+
 
 ## Table of contents
 
@@ -13,17 +15,30 @@ included html
 <link rel="stylesheet" href="css/crypto-currency-icon.css">
 ```
 
-**Clone the repo:**
-
-```$xslt
-$ git clone git@github.com:webcyou/crypto-currency-icon.git
+**Install with [npm](https://www.npmjs.com):**
+```
+$ npm install crypto-currency-icon
 ```
 
+
 **HTML**
+
+Bitcoin
 
 ```$xslt
 <p class="icon cryptoCoin btc"></p>
 ```
+
+Ripple
+```$xslt
+<p class="icon cryptoCoin xrp"></p>
+```
+
+add Size Variation.
+```$xslt
+<p class="icon cryptoCoin xrp small"></p>
+```
+
 
 **Icon Size CSS Class**
 
@@ -31,6 +46,13 @@ $ git clone git@github.com:webcyou/crypto-currency-icon.git
 |:----:|:-----:|:------:|:-----:|:---:|
 | mini | small | medium | large | big |
 
+
+
+**Clone the repo:**
+
+```$xslt
+$ git clone git@github.com:webcyou/crypto-currency-icon.git
+```
 
 
 ## Documentation

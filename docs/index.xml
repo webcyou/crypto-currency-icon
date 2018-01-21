@@ -18,8 +18,14 @@
       <pubDate>Sat, 20 Jan 2018 21:07:13 +0100</pubDate>
       
       <guid>https://webcyou.github.io/crypto-currency-icon/</guid>
-      <description>Beautiful documentation Material is a theme for Hugo, a fast and flexible static site generator. It is built using Google&amp;rsquo;s material design guidelines, fully responsive, optimized for touch and pointer devices as well as all sorts of screen sizes.
-Material is very lightweight – it is built from scratch using Javascript and CSS that weighs less than 30kb (minified, gzipped and excluding Google Fonts and Analytics). Yet, it is highly customizable and degrades gracefully in older browsers.</description>
+      <description>Crypto Currency Icon CSS Quick start included html
+&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;css/crypto-currency-icon.css&amp;quot;&amp;gt;  Install with npm:
+$ npm install crypto-currency-icon  HTML
+Bitcoin
+&amp;lt;p class=&amp;quot;icon cryptoCoin btc&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;  Ripple
+&amp;lt;p class=&amp;quot;icon cryptoCoin xrp&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;  add Size Variation.
+&amp;lt;p class=&amp;quot;icon cryptoCoin xrp small&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;  Icon Size CSS Class
+            big large medium small mini           Clone the repo:</description>
     </item>
     
   </channel>
