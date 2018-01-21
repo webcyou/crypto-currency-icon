@@ -5,7 +5,7 @@ type: index
 weight: 0
 ---
 
-## [APB CSS](http://apbcss.com/) (Atomic Parts Base CSS) Architecture Base CryptoCurrency Icon CSS Style
+### [APB CSS](http://apbcss.com/) (Atomic Parts Base CSS) Architecture Base CryptoCurrency Icon CSS Style
 
 
 ![Crypto Currency Icon](/images/design_ss.png)
@@ -21,6 +21,11 @@ included html
 **Install with [npm](https://www.npmjs.com):**
 ```$xslt
 $ npm install crypto-currency-icon
+```
+
+**SCSS**
+```$xslt
+@import "/node_modules/crypto-currency-icon/dist/crypto-currency-icon.css";
 ```
 
 
@@ -68,14 +73,6 @@ add Size Variation.
 ```$xslt
 $ git clone git@github.com:webcyou/crypto-currency-icon.git
 ```
-
-
-## Documentation
-
-CryptoCurrency Icon CSS Style documentation, included in this repo in the root directory, is built with Hugo.
-
-
-[CryptoCurrency Icon CSS](https://webcyou.github.io/crypto-currency-icon/)
 
 
 ## Start Develop

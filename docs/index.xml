@@ -20,7 +20,8 @@
       <guid>https://webcyou.github.io/crypto-currency-icon/</guid>
       <description>APB CSS (Atomic Parts Base CSS) Architecture Base CryptoCurrency Icon CSS Style Quick start included html
 &amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;css/crypto-currency-icon.css&amp;quot;&amp;gt;  Install with npm:
-$ npm install crypto-currency-icon  HTML
+$ npm install crypto-currency-icon  SCSS
+@import &amp;quot;/node_modules/crypto-currency-icon/dist/crypto-currency-icon.css&amp;quot;;  HTML
 Bitcoin
 &amp;lt;p class=&amp;quot;icon cryptoCoin btc&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;  Ripple
 &amp;lt;p class=&amp;quot;icon cryptoCoin xrp&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;  add Size Variation.

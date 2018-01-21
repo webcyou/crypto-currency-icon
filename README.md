@@ -25,7 +25,10 @@ included html
 ```$xslt
 $ npm install crypto-currency-icon
 ```
-
+**SCSS**
+```$xslt
+@import "/node_modules/crypto-currency-icon/dist/crypto-currency-icon.css";
+```
 
 **HTML**
 
