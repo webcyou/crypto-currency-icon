@@ -5,7 +5,11 @@ type: index
 weight: 0
 ---
 
-## Crypto Currency Icon CSS 
+## [APB CSS](http://apbcss.com/) (Atomic Parts Base CSS) Architecture Base CryptoCurrency Icon CSS Style
+
+
+![Crypto Currency Icon](/images/design_ss.png)
+
 
 ## Quick start
 
@@ -15,7 +19,7 @@ included html
 ```
 
 **Install with [npm](https://www.npmjs.com):**
-```
+```$xslt
 $ npm install crypto-currency-icon
 ```
 
@@ -119,9 +123,3 @@ MIT
 ## Features
 
 
-
-## Acknowledgements
-
-Last but not least a big thank you to [Martin Donath](https://github.com/squidfunk). He created the original [Material theme](https://github.com/squidfunk/mkdocs-material) for Hugo's companion [MkDocs](http://www.mkdocs.org/). This port wouldn't be possible without him.
-
-Furthermore, thanks to [Steve Francia](https://gihub.com/spf13) for creating Hugo and the [awesome community](https://github.com/spf13/hugo/graphs/contributors) around the project.
