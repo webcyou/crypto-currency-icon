@@ -27,18 +27,29 @@ $ npm install crypto-currency-icon
 
 **HTML**
 
+example:
+
 Bitcoin
+
+![Bitcoin](https://webcyou.github.io/crypto-currency-icon/images/bitcoin_30.png)
+
 
 ```$xslt
 <p class="icon cryptoCoin btc"></p>
 ```
 
 Ripple
+
+![Ripple](https://webcyou.github.io/crypto-currency-icon/images/ripple_30.png)
+
 ```$xslt
 <p class="icon cryptoCoin xrp"></p>
 ```
 
 add Size Variation.
+
+![Ripple](https://webcyou.github.io/crypto-currency-icon/images/ripple_20.png)
+
 ```$xslt
 <p class="icon cryptoCoin xrp small"></p>
 ```
