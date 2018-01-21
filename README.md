@@ -1,12 +1,16 @@
 # crypto-currency-icon 
 
-### APB CSS (Atomic Parts Base CSS) Architecture Base CryptoCurrency Icon CSS Style
+### [APB CSS](http://apbcss.com/) (Atomic Parts Base CSS) Architecture Base CryptoCurrency Icon CSS Style
 
 
 
 ## Table of contents
 
 * [Quick start](#quick-start)
+* [Documentation](#documentation)
+* [Start Develop](#start-develop)
+* [Creators](#creators)
+* [Copyright and license](#copyright-and-license)
 
 ## Quick start
 
@@ -42,9 +46,13 @@ add Size Variation.
 
 **Icon Size CSS Class**
 
-|      |       |        |       |     |
-|:----:|:-----:|:------:|:-----:|:---:|
-| mini | small | medium | large | big |
+| size (px)     | css className |  images  |
+|:-------------:|:-------------:|:--------:|
+| 14px × 14px   | mini          | |
+| 20px × 20px   | small         | |
+| 30px × 30px   | medium        | |
+| 50px × 50px   | large         | |
+| 100px × 100px | big           | |
 
 
 

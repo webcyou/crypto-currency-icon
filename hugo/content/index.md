@@ -50,10 +50,13 @@ add Size Variation.
 
 **Icon Size CSS Class**
 
-|      |       |        |       |      |
-|:----:|:-----:|:------:|:-----:|:----:|
-| big  | large | medium | small | mini |
-| <p class="icon cryptoCoin btc big"></p>  | <p class="icon cryptoCoin btc large"></p> | <p class="icon cryptoCoin btc"></p> | <p class="icon cryptoCoin btc small"></p> | <p class="icon cryptoCoin btc mini"></p> |
+| size (px)     | css className |  images  |
+|:-------------:|:-------------:|:--------:|
+| 14px × 14px   | mini          | <p class="icon cryptoCoin btc mini"></p> |
+| 20px × 20px   | small         | <p class="icon cryptoCoin btc small"></p>  |
+| 30px × 30px   | medium        | <p class="icon cryptoCoin btc"></p> |
+| 50px × 50px   | large         | <p class="icon cryptoCoin btc large"></p> |
+| 100px × 100px | big           | <p class="icon cryptoCoin btc big"></p> |
 
 
 **Clone the repo:**
