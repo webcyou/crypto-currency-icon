@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Icons on Crypto Currency Icon</title>
+    <link>https://webcyou.github.io/crypto-currency-icon/icons/</link>
+    <description>Recent content in Icons on Crypto Currency Icon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Mon, 22 Jan 2018 15:50:34 +0900</lastBuildDate>
+    
+	<atom:link href="https://webcyou.github.io/crypto-currency-icon/icons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Icons</title>
+      <link>https://webcyou.github.io/crypto-currency-icon/icons/</link>
+      <pubDate>Mon, 22 Jan 2018 15:50:34 +0900</pubDate>
+      
+      <guid>https://webcyou.github.io/crypto-currency-icon/icons/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

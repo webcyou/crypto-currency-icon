@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://webcyou.github.io/crypto-currency-icon/</loc>
-    <lastmod>2018-01-20T21:07:13+01:00</lastmod>
+    <loc>https://webcyou.github.io/crypto-currency-icon/top/</loc>
+    <lastmod>2018-01-22T16:02:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcyou.github.io/crypto-currency-icon/license/</loc>
+    <lastmod>2018-01-22T15:50:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcyou.github.io/crypto-currency-icon/icons/</loc>
+    <lastmod>2018-01-22T15:50:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcyou.github.io/crypto-currency-icon/getting-started/</loc>
+    <lastmod>2018-01-22T15:46:08+09:00</lastmod>
   </url>
   
   <url>
@@ -14,12 +29,36 @@
   
   <url>
     <loc>https://webcyou.github.io/crypto-currency-icon/</loc>
-    <lastmod>2018-01-20T21:07:13+01:00</lastmod>
+    <lastmod>2018-01-22T16:02:50+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://webcyou.github.io/crypto-currency-icon/getting-started/</loc>
+    <lastmod>2018-01-22T15:46:08+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://webcyou.github.io/crypto-currency-icon/icons/</loc>
+    <lastmod>2018-01-22T15:50:34+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://webcyou.github.io/crypto-currency-icon/license/</loc>
+    <lastmod>2018-01-22T15:50:46+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://webcyou.github.io/crypto-currency-icon/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://webcyou.github.io/crypto-currency-icon/top/</loc>
+    <lastmod>2018-01-22T16:02:50+09:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting-starteds on Crypto Currency Icon</title>
+    <link>https://webcyou.github.io/crypto-currency-icon/getting-started/</link>
+    <description>Recent content in Getting-starteds on Crypto Currency Icon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Mon, 22 Jan 2018 15:46:08 +0900</lastBuildDate>
+    
+	<atom:link href="https://webcyou.github.io/crypto-currency-icon/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting started</title>
+      <link>https://webcyou.github.io/crypto-currency-icon/getting-started/</link>
+      <pubDate>Mon, 22 Jan 2018 15:46:08 +0900</pubDate>
+      
+      <guid>https://webcyou.github.io/crypto-currency-icon/getting-started/</guid>
+      <description>Quick start included html
+&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;css/crypto-currency-icon.css&amp;quot;&amp;gt;  Install with npm:
+$ npm install crypto-currency-icon  SCSS
+@import &amp;quot;/node_modules/crypto-currency-icon/dist/crypto-currency-icon.css&amp;quot;;  HTML
+Bitcoin
+&amp;lt;p class=&amp;quot;icon cryptoCoin btc&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;  Ripple
+&amp;lt;p class=&amp;quot;icon cryptoCoin xrp&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;  add Size Variation.
+&amp;lt;p class=&amp;quot;icon cryptoCoin xrp small&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;  Icon Size    size (px) css className images     14px × 14px mini    20px × 20px small    30px × 30px medium    50px × 50px large    100px × 100px big     Clone the repo:</description>
+    </item>
+    
+  </channel>
+</rss>

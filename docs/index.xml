@@ -5,19 +5,19 @@
     <link>https://webcyou.github.io/crypto-currency-icon/</link>
     <description>Recent content on Crypto Currency Icon</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
+    <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
-    <lastBuildDate>Sat, 20 Jan 2018 21:07:13 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2018 16:02:50 +0900</lastBuildDate>
     
 	<atom:link href="https://webcyou.github.io/crypto-currency-icon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Crypto Currency Icon</title>
-      <link>https://webcyou.github.io/crypto-currency-icon/</link>
-      <pubDate>Sat, 20 Jan 2018 21:07:13 +0100</pubDate>
+      <link>https://webcyou.github.io/crypto-currency-icon/top/</link>
+      <pubDate>Mon, 22 Jan 2018 16:02:50 +0900</pubDate>
       
-      <guid>https://webcyou.github.io/crypto-currency-icon/</guid>
+      <guid>https://webcyou.github.io/crypto-currency-icon/top/</guid>
       <description>APB CSS (Atomic Parts Base CSS) Architecture Base CryptoCurrency Icon CSS Style Quick start included html
 &amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;css/crypto-currency-icon.css&amp;quot;&amp;gt;  Install with npm:
 $ npm install crypto-currency-icon  SCSS
@@ -27,6 +27,42 @@ Bitcoin
 &amp;lt;p class=&amp;quot;icon cryptoCoin xrp&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;  add Size Variation.
 &amp;lt;p class=&amp;quot;icon cryptoCoin xrp small&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;  Icon Size CSS Class
    size (px) css className images     14px × 14px mini    20px × 20px small    30px × 30px medium    50px × 50px large    100px × 100px big     Clone the repo:</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://webcyou.github.io/crypto-currency-icon/license/</link>
+      <pubDate>Mon, 22 Jan 2018 15:50:46 +0900</pubDate>
+      
+      <guid>https://webcyou.github.io/crypto-currency-icon/license/</guid>
+      <description>The MIT License (MIT)
+Copyright &amp;copy; 2018 Daisuke Takayama
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+    <item>
+      <title>Icons</title>
+      <link>https://webcyou.github.io/crypto-currency-icon/icons/</link>
+      <pubDate>Mon, 22 Jan 2018 15:50:34 +0900</pubDate>
+      
+      <guid>https://webcyou.github.io/crypto-currency-icon/icons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting started</title>
+      <link>https://webcyou.github.io/crypto-currency-icon/getting-started/</link>
+      <pubDate>Mon, 22 Jan 2018 15:46:08 +0900</pubDate>
+      
+      <guid>https://webcyou.github.io/crypto-currency-icon/getting-started/</guid>
+      <description>Quick start included html
+&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;css/crypto-currency-icon.css&amp;quot;&amp;gt;  Install with npm:
+$ npm install crypto-currency-icon  SCSS
+@import &amp;quot;/node_modules/crypto-currency-icon/dist/crypto-currency-icon.css&amp;quot;;  HTML
+Bitcoin
+&amp;lt;p class=&amp;quot;icon cryptoCoin btc&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;  Ripple
+&amp;lt;p class=&amp;quot;icon cryptoCoin xrp&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;  add Size Variation.
+&amp;lt;p class=&amp;quot;icon cryptoCoin xrp small&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;  Icon Size    size (px) css className images     14px × 14px mini    20px × 20px small    30px × 30px medium    50px × 50px large    100px × 100px big     Clone the repo:</description>
     </item>
     
   </channel>
