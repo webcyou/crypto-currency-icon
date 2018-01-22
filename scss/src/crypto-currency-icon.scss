@@ -16,5 +16,8 @@
 
   // Cardano
   &.ada { @include cardano; }
+
+  // Litecoin
+  &.ltc { @include litecoin; }
 }
 
