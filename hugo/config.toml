@@ -1,5 +1,6 @@
 baseURL = "https://webcyou.github.io/crypto-currency-icon/"
-languageCode = "ja"
+#languageCode = "ja"
+languageCode = "en-us"
 title = "Crypto Currency Icon"
 theme = "hugo-material-docs"
 metadataformat = "yaml"

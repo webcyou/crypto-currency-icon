@@ -1,9 +1,8 @@
 ---
-date: 2016-03-09T20:08:11+01:00
-title: Getting started
-weight: 10
+title: "Getting started"
+date: 2018-01-22T15:46:08+09:00
+draft: false
 ---
-
 
 ## Quick start
 

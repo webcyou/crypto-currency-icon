@@ -1,9 +1,6 @@
 ---
-date: 2016-03-09T20:08:11+01:00
-title: Icons
-weight: 20
+title: "Icons"
+date: 2018-01-22T15:50:34+09:00
+draft: false
 ---
-
-
-### Crypto Currency All Icon
 

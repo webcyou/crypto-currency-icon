@@ -1,8 +1,8 @@
 ---
-date: 2018-01-20T21:07:13+01:00
-title: Crypto Currency Icon
+title: "Crypto Currency Icon"
+date: 2018-01-22T16:02:50+09:00
 type: index
-weight: 0
+draft: false
 ---
 
 ### [APB CSS](http://apbcss.com/) (Atomic Parts Base CSS) Architecture Base CryptoCurrency Icon CSS Style
@@ -118,5 +118,4 @@ MIT
 
 
 ## Features
-
 
