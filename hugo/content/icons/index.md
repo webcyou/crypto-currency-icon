@@ -12,3 +12,4 @@ All CryptoCurrency Icons
 <p class="icon cryptoCoin bch"></p>
 <p class="icon cryptoCoin ada"></p>
 <p class="icon cryptoCoin ltc"></p>
+<p class="icon cryptoCoin xem"></p>

@@ -19,5 +19,8 @@
 
   // Litecoin
   &.ltc { @include litecoin; }
+
+  // Nem
+  &.xem { @include nem; }
 }
 
