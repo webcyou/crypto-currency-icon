@@ -13,3 +13,4 @@ All CryptoCurrency Icons
 <p class="icon cryptoCoin ada"></p>
 <p class="icon cryptoCoin ltc"></p>
 <p class="icon cryptoCoin xem"></p>
+<p class="icon cryptoCoin xlm"></p>

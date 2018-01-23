@@ -22,5 +22,7 @@
 
   // Nem
   &.xem { @include nem; }
-}
 
+  // Stellar
+  &.xlm { @include stellar; }
+}
