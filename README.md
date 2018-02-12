@@ -75,7 +75,7 @@ Retina Display Image size.
 **Clone the repo:**
 
 ```$xslt
-$ git clone git@github.com:webcyou/crypto-currency-icon.git
+$ git clone --recursive git@github.com:webcyou/crypto-currency-icon.git
 ```
 
 
@@ -89,19 +89,30 @@ CryptoCurrency Icon CSS Style documentation, included in this repo in the root d
 
 ## Start Develop
 
+
+**Clone the repo:**
+
 ```$xslt
-npm install
+$ git clone --recursive git@github.com:webcyou/crypto-currency-icon.git
+```
+
+```$xslt
+$ cd crypto-currency-icon
+```
+
+```$xslt
+$ npm install
 ```
 
 If necessary, install Hugo and other Go.
 
 ```$xslt
-brew install hugo
+$ brew install hugo
 ```
 
 
 ```$xslt
-npm run start
+$ npm run start
 ```
 
 Open `http://localhost:1313` in your browser.
