@@ -25,4 +25,7 @@
 
   // Stellar
   &.xlm { @include stellar; }
+
+  // IOTA
+  &.iot { @include iota; }
 }

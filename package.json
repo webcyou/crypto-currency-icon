@@ -1,6 +1,6 @@
 {
   "name": "crypto-currency-icon",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "APBCSS(Atomic Parts Base CSS) Architecture Base CryptoCurrency Icon CSS Style",
   "main": "dist/crypto-currency-icon.css",
   "style": "dist/crypto-currency-icon.css",

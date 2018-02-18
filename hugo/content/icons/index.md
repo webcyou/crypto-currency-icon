@@ -14,3 +14,4 @@ All CryptoCurrency Icons
 <p class="icon cryptoCoin ltc"></p>
 <p class="icon cryptoCoin xem"></p>
 <p class="icon cryptoCoin xlm"></p>
+<p class="icon cryptoCoin iot"></p>
